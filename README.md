@@ -1,6 +1,6 @@
 # HTB Scripts
 
-> My personal collection of scripts I have coded for HackTheBox machines.
+> A personal collection of scripts I've coded to pwn boxes from HackTheBox.
 
 ## Notes
 
